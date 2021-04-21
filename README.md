@@ -6,7 +6,7 @@
 
 ### 技术栈：
 
-主语言Python。熟练使用FastAPI进行后端API开发（两个大型项目经验）；较为熟练使用PyTorch进行cv方向的模型实现；较为熟练使用Wechaty与FastAPI等框架进行微信[个人号/企业微信/公众号/测试号]开发。其余熟练使用库包括不限于requests、numpy、pandas、seaborn等。
+主语言Python。熟练使用FastAPI进行后端API开发（两个大型项目经验）；较为熟练使用PyTorch进行cv方向的模型实现；较为熟练使用Wechaty与FastAPI等框架进行微信[个人号/企业微信/公众号/测试号]开发。其余熟练使用库包括不限于requests、numpy、pandas、seaborn等进行爬虫/数据分析/自动化办公开发。
 
 主流其他语言阅读无障碍，较少掌握C/C++，能使用Vue开发简单页面+Axios调用接口。
 
