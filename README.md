@@ -2,7 +2,7 @@
 
 ## About Me
 
-我是lyle，目前某双非大二在读，现居杭州。
+我是lyle，目前某双非大三在读，现居杭州。
 
 ### 技术栈：
 
@@ -10,6 +10,6 @@
 
 主流其他语言阅读无障碍，较少掌握C/C++，能使用Vue开发简单页面+Axios调用接口。
 
-![lyleshaw's github stats](https://github-readme-stats.vercel.app/api?username=lyleshaw&show_icons=true&count_private=true)
+![lyleshaw's github stats](https://github-readme-stats.vercel.app/api?username=lyleshaw&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyleshaw&hide=JavaScript,HTML,CSS&layout=compact)](https://github.com/lyleshaw)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyleshaw&hide=JavaScript,HTML,CSS&layout=compact)](https://github.com/lyleshaw)
+
