@@ -1,15 +1,28 @@
-> Hi.
+### Hi, developers. 👋.
 
-## About Me
+<p align="left"> 
+  <img src="https://img.shields.io/github/followers/lyleshaw?label=Followers" alt="follow" />
+  <img src="https://komarev.com/ghpvc/?username=lyleshaw" alt="views" /> 
+</p>
 
-我是lyle，目前某双非大三在读，现居杭州。
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=LyleShaw&show_icons=true&include_all_commits=true&count_private=true" alt="chongruo" /> </p>
 
-### 技术栈：
+**🙍‍♂️ About Me**
 
-主语言Python。熟练使用FastAPI进行后端API开发（两个大型项目经验）；较为熟练使用PyTorch进行cv方向的模型实现；较为熟练使用Wechaty与FastAPI等框架进行微信[个人号/企业微信/公众号/测试号]开发。其余熟练使用库包括不限于requests、numpy、pandas、seaborn等进行爬虫/数据分析/自动化办公开发。
+- 👉 I'm Lyle Shaw (肖良玉 in Chinese).
+- 🙇‍♂️ Knows a little about Backend and DevOps.
+- 🐍 Focus on Python、Golang and it's ecology.
+- 🏠 Blog at [lyle.net.cn](https://lyle.net.cn).
+- 🤖️ Great Passion about ChatBot and WeChat ecology.
+- 🏫 Computer science and technology student of [HDU](https://www.hdu.edu.cn/).
+- 👨‍💻 Author of [python-wechaty-puppet-itchat](https://github.com/wechaty/python-wechaty-puppet-itchat).
 
-主流其他语言阅读无障碍，较少掌握C/C++，能使用Vue开发简单页面+Axios调用接口。
+**💻 Latest Activites**
 
-![lyleshaw's github stats](https://github-readme-stats.vercel.app/api?username=lyleshaw&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyleshaw&hide=JavaScript,HTML,CSS&layout=compact)](https://github.com/lyleshaw)
+- 🙋‍♂️ Looking for intern.
+- 🐛 Fixing bugs in [python-wechaty-puppet-itchat](https://github.com/wechaty/python-wechaty-puppet-itchat).
 
+**⌨️ How to Reach Me**:
 
+- 📫 Email: [lyle@hdu.edu.cn](mailto:lyle@hdu.edu.cn)
+- 💬 WeChat: [Click here to get my QRcode](https://user-images.githubusercontent.com/25427168/135266647-63f2e132-c443-40b6-89f0-ca494dccfc09.png)(Please notice who you are and why you add me.)
