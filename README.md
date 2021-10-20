@@ -1,11 +1,14 @@
-### Hi, developers. 👋.
+### Hi, developers 👋.
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://img.shields.io/github/followers/lyleshaw?label=Followers" alt="follow" />
   <img src="https://komarev.com/ghpvc/?username=lyleshaw" alt="views" /> 
 </p>
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=LyleShaw&show_icons=true&include_all_commits=true&count_private=true" alt="chongruo" /> </p>
+<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=LyleShaw&show_icons=true&include_all_commits=true&count_private=true" align="left" style="width: 100%" />
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyleshaw&hide_border=true&layout=compact&hide=javascript,html,css,scss" align="left" style="width: 100%" />
+</td></tr></table>  
 
 **🙍‍♂️ About Me**
 
