@@ -10,6 +10,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyleshaw&hide_border=true&layout=compact&hide=javascript,html,css,scss" align="left" style="width: 100%" />
 </td></tr></table>  
 
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=lyleshaw" alt="trophy" />
+</p>
+
 **🙍‍♂️ About Me**
 
 - 👉 I'm Lyle Shaw (肖良玉 in Chinese).
