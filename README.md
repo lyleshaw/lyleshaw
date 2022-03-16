@@ -26,8 +26,8 @@
 
 **💻 Latest Activites**
 
-- 🙋‍♂️ Looking for intern.
-- 🐛 Fixing bugs in [python-wechaty-puppet-itchat](https://github.com/wechaty/python-wechaty-puppet-itchat).
+- Prepare for Postgraduate Entrance Examination.
+- Working on devops.
 
 **⌨️ How to Reach Me**:
 
