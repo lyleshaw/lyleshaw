@@ -14,6 +14,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=lyleshaw" alt="trophy" />
 </p>
 
+<p align="center"> 
+  <img width="100" height="100" src="https://images.credly.com/size/680x680/images/0004a828-38f8-4f4a-847c-a271adfc986a/image.png" alt="trophy" />
+</p>
+
 **🙍‍♂️ About Me**
 
 - 👉 I'm Lyle Shaw (肖良玉 in Chinese).
