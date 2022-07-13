@@ -11,7 +11,7 @@
 </td></tr></table>  
 
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=lyleshaw" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lyleshaw&column=-1" alt="trophy" />
 </p>
 
 <p align="center"> 
