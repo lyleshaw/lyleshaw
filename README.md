@@ -20,18 +20,20 @@
 
 **🙍‍♂️ About Me**
 
-- 👉 I'm Lyle Shaw (肖良玉 in Chinese).
+- 👉 I'm Lyle Xiao (肖良玉 in Chinese).
 - 🏠 Blog click here: [https://lyle.net.cn](https://lyle.net.cn).
 - 👨‍💻 Author of [python-wechaty-puppet-itchat](https://github.com/wechaty/python-wechaty-puppet-itchat).
 - 🙇‍♂️ Knows a little about Backend and DevOps.
 - 🐍 Focus on Python、Golang and it's ecology.
 - 🤖️ Great Passion about ChatBot and WeChat ecology.
 - 🏫 Computer science and technology student of [HDU](https://www.hdu.edu.cn/).
+- 📜 GSoC 2022 @ Apache DolphinScheduler
+- 📜 OSPP 2022 @ DevStream
+- 📜 OSPP 2021 @ Wechaty
 
 **💻 Latest Activites**
 
-- Prepare for Postgraduate Entrance Examination.
-- Working on devops.
+- Working on GSoC/OSPP.
 
 **⌨️ How to Reach Me**:
 
