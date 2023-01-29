@@ -20,8 +20,7 @@
 
 **🙍‍♂️ About Me**
 
-- 👉 I'm Lyle Xiao (肖良玉 in Chinese).
-- 🏠 Blog click here: [https://lyle.net.cn](https://lyle.net.cn).
+- 👉 I'm Lyle.
 - 👨‍💻 Author of [python-wechaty-puppet-itchat](https://github.com/wechaty/python-wechaty-puppet-itchat).
 - 🙇‍♂️ Knows a little about Backend and DevOps.
 - 🐍 Focus on Python、Golang and it's ecology.
@@ -33,9 +32,5 @@
 
 **💻 Latest Activites**
 
-- Working on GSoC/OSPP.
+- Working on Side Projects / Web3.
 
-**⌨️ How to Reach Me**:
-
-- 📫 Email: [lyle@hdu.edu.cn](mailto:lyle@hdu.edu.cn)
-- 💬 WeChat: [Click here to get my QRcode](https://user-images.githubusercontent.com/25427168/135266647-63f2e132-c443-40b6-89f0-ca494dccfc09.png)(Please notice who you are and why you add me.)
