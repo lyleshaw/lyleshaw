@@ -7,7 +7,7 @@
 <table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=LyleShaw&show_icons=true&include_all_commits=true&count_private=true&hide_border=True" align="left" style="width: 100%" />
 </td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyleshaw&hide_border=true&layout=compact&hide=javascript,html,css,scss" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyleshaw&hide_border=true&layout=compact&hide=javascript,html,css,scss,jupyter%20notebook" align="left" style="width: 100%" />
 </td></tr></table>  
 
 <p align="center"> 
@@ -24,7 +24,7 @@
 - 👨‍💻 Author of [python-wechaty-puppet-itchat](https://github.com/wechaty/python-wechaty-puppet-itchat).
 - 🙇‍♂️ Knows a little about Backend and DevOps.
 - 🐍 Focus on Python、Golang and it's ecology.
-- 🤖️ Great Passion about ChatBot and WeChat ecology.
+- 🤖️ Great Passion about ChatBot and LLM.
 - 🏫 Computer science and technology student of [HDU](https://www.hdu.edu.cn/).
 - 📜 GSoC 2022 @ Apache DolphinScheduler
 - 📜 OSPP 2022 @ DevStream
@@ -32,5 +32,5 @@
 
 **💻 Latest Activites**
 
-- Working on Side Projects / Web3.
+- Working on Side Projects.
 
