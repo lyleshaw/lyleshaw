@@ -21,14 +21,9 @@
 **🙍‍♂️ About Me**
 
 - 👉 I'm Lyle.
-- 👨‍💻 Author of [python-wechaty-puppet-itchat](https://github.com/wechaty/python-wechaty-puppet-itchat).
 - 🙇‍♂️ Knows a little about Backend and DevOps.
 - 🐍 Focus on Python、Golang and it's ecology.
 - 🤖️ Great Passion about ChatBot and LLM.
-- 🏫 Computer science and technology student of [HDU](https://www.hdu.edu.cn/).
-- 📜 GSoC 2022 @ Apache DolphinScheduler
-- 📜 OSPP 2022 @ DevStream
-- 📜 OSPP 2021 @ Wechaty
 
 **💻 Latest Activites**
 
